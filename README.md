@@ -1,5 +1,6 @@
 ## Linkedin Scraper 
 
+## Before running the code please go through the instructions
 ## Create an environment
 ```
 conda create -p venv python==3.8
@@ -12,7 +13,6 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
-## Before running the code please go through the instructions
 ## for running the code
 ```
 python scraper.py
