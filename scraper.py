@@ -207,8 +207,8 @@ logging.basicConfig(
             level=logging.INFO) 
 
                         
-email = "singharijit191@gmail.com"        
-password = "zebronics"        
+email = "Enter your email address"        
+password = "Enter your password"        
 links = set() #initializing a empty set for links
 data_list = [] #initializing a empty list for data 
 firstname = input("Input first name: ")
