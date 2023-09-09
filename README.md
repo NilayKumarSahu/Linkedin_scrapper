@@ -3,7 +3,7 @@
 ## Before running the code please go through the instructions
 ## Create an environment
 ```
-conda create -p venv python==3.8
+conda create -p venv python==3.10
 ```
 ## Activating the environment
 ```
